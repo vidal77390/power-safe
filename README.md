@@ -18,3 +18,6 @@ Liste des requetes possible a faire sur le serveur de l'esp :
 + GET /getAlarm  => Retourne true si l'alarme est activer false sinon
 + GET /desactivateAlarm  => parametre : password    => desactive l'alarme avec le mot de passe passer en parametre
 + GET /new => parametre : password     => change le mots de passe en cours si l'alarme est activer
+
+L'alarme peut être piloté par une application mobile qui se trouve dans le repo suivant : 
+ + https://github.com/MoussaOudj/PowerSafeApp
