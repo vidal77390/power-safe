@@ -21,3 +21,8 @@ Liste des requetes possible a faire sur le serveur de l'esp :
 
 L'alarme peut être piloté par une application mobile qui se trouve dans le repo suivant : 
  + https://github.com/MoussaOudj/PowerSafeApp
+
+![alt text](https://raw.githubusercontent.com/vidal77390/power-safe/master/schema.PNG)
+![alt text](https://raw.githubusercontent.com/vidal77390/power-safe/master/image0.jpg)
+![alt text](https://raw.githubusercontent.com/vidal77390/power-safe/master/algo.jpg)
+
